@@ -1,3 +1,4 @@
+
 import { defineConfig } from "vite";
 
 export default defineConfig({
@@ -12,13 +13,12 @@ export default defineConfig({
     strictPort: true,
     hmr: {
       clientPort: 443,
-      host: "f4165080-5adc-4341-8b4c-e25a17f06f03.replit.app",
+      host: process.env.REPL_SLUG + "." + process.env.REPL_OWNER + ".repl.co",
       protocol: "wss",
-      path: "@vite/client",
-    },
-    cors: true,
-    allowedHosts: [
-      "6aca1f71-5ef5-4bff-bff5-5907ead25b22-00-qvy4dgaklyoi.janeway.replit.dev",
-    ],
+    }
+  },
+  build: {
+    outDir: "dist",
+    sourcemap: true,
   },
 });
