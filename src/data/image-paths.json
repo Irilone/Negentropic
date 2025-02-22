@@ -1,41 +1,40 @@
-
 {
   "images": [
     {
       "name": "solace-1-onboarding.png",
-      "path": "supabase://interactive-projects/solace/solace-1-onboarding.png"
+      "path": "https://replit.com/@avillus/lovework-portfolio#public/entropy-assets/papyrus-3-annotations.png"
     },
     {
       "name": "solace-2-home.png",
-      "path": "supabase://interactive-projects/solace/solace-2-home.png"
+      "path": "https://replit.com/@avillus/lovework-portfolio#public/entropy-assets/papyrus-3-annotations.png"
     },
     {
       "name": "solace-3-form.png",
-      "path": "supabase://interactive-projects/solace/solace-3-form.png"
+      "path": "https://replit.com/@avillus/lovework-portfolio#public/entropy-assets/papyrus-3-annotations.png"
     },
     {
       "name": "papyrus-1-papyrus.png",
-      "path": "supabase://interactive-projects/papyrus/papyrus-1-papyrus.png"
+      "path": "https://replit.com/@avillus/lovework-portfolio#public/entropy-assets/papyrus-3-annotations.png"
     },
     {
       "name": "papyrus-2-challenge.png",
-      "path": "supabase://interactive-projects/papyrus/papyrus-2-challenge.png"
+      "path": "https://replit.com/@avillus/lovework-portfolio#public/entropy-assets/papyrus-3-annotations.png"
     },
     {
       "name": "papyrus-3-annotations.png",
-      "path": "supabase://interactive-projects/papyrus/papyrus-3-annotations.png"
+      "path": "https://replit.com/@avillus/lovework-portfolio#public/entropy-assets/papyrus-3-annotations.png"
     },
     {
       "name": "index.html",
-      "path": "supabase://interactive-projects/papyrus/index.html"
+      "path": "https://replit.com/@avillus/lovework-portfolio#public/entropy-assets/papyrus-3-annotations.png"
     },
     {
       "name": "styles.css",
-      "path": "supabase://interactive-projects/papyrus/styles.css"
+      "path": "https://replit.com/@avillus/lovework-portfolio#public/entropy-assets/papyrus-3-annotations.png"
     },
     {
       "name": "scripts.js",
-      "path": "supabase://interactive-projects/papyrus/scripts.js"
+      "path": "https://replit.com/@avillus/lovework-portfolio#public/entropy-assets/papyrus-3-annotations.png"
     }
   ]
 }
