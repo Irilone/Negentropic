@@ -18,7 +18,8 @@ export default defineConfig({
     },
     cors: true,
     allowedHosts: [
-      '6aca1f71-5ef5-4bff-bff5-5907ead25b22-00-qvy4dgaklyoi.janeway.replit.dev'
+      '6aca1f71-5ef5-4bff-bff5-5907ead25b22-00-qvy4dgaklyoi.janeway.replit.dev',
+      'qvy4dgaklyoi.janeway.replit.dev'
     ]
   }
 });
