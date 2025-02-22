@@ -9,7 +9,7 @@ run = ["sh", "-c", "npx serve dist"]
 build = ["sh", "-c", "npm run build"]
 
 [workflows]
-runButton = "Dev"
+runButton = "dev"
 
 [[workflows.workflow]]
 name = "Install Packages"
@@ -29,6 +29,14 @@ args = "npm run dev"
 
 [[workflows.workflow]]
 name = "Dev"
+author = 39854585
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "npm run dev"
+
+[[workflows.workflow]]
+name = "dev"
 author = 39854585
 
 [[workflows.workflow.tasks]]
